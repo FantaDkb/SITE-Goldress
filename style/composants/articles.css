@@ -1,0 +1,43 @@
+	/*ACTU*/
+
+	.articles {
+		display: flex;
+		justify-content: space-around; text-align: center; padding: 40px; width: 100%;
+	}
+
+	.actrice { 
+		width: 100%;
+	}
+	.mesure { width: 100%;
+	}
+	.fillesmaillot {
+	 width: 100%
+	}
+
+	.une {
+		width: 30%;
+	}
+
+	.deux {
+		width: 30%;
+	}
+
+	.trois {
+		width:30%;
+	}
+
+	.laUne {
+		margin-top: 20px; font-family: fantasy;
+	}
+
+
+.card-actu {
+	color:  black;
+	font-size: 15px;;
+    }
+
+.card-title{
+	color:  black;
+	font-size: 20px;
+	background-color: #D3B8A5;
+    }

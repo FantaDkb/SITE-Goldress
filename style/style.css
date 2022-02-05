@@ -1,0 +1,31 @@
+
+@import url("composants/responsive.css");
+
+@import url("composants/articles.css");
+@import url("composants/vetements.css");
+@import url("composants/header.footer.css");
+@import url("composants/titres.css");
+@import url("composants/banniere.css");
+@import url("composants/histoire.css");
+
+
+
+
+body {
+	background-color: floralwhite;
+	height: 100%;
+	margin: 0;
+	width: 100%;
+	font-family: Brandon-Grot-W01-Light ;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+
+
+/*PAGE ACCUEIL*/
+
+
+
+@media screen and (max-width: 600px) {
+
+  	body {
+    background-color: lightgrey;
+;
+ 		 }
+		.categories{
+	flex-direction: column;
+		}
+
+		.clothe {
+	width: 100%;
+	margin-bottom: 20%;
+		}
+
+		.videos {
+	flex-direction: column-reverse;
+		}
+
+		.miniature {
+	width: 100%;
+	margin-bottom: 20%;
+		}
+}
+
+/*PAGE HISTOIRE*/
+
+@media screen and (max-width: 600px) {  
+
+
+  body {
+    background-color: blue;
+  }
+
+.colonnes {
+	flex-direction: column;
+}
+.colonne {
+	width: 100%;
+	margin-bottom:20px;
+}
+
+}

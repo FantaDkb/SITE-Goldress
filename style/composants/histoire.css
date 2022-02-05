@@ -1,0 +1,33 @@
+
+
+.colonnes {
+	display: flex;
+	justify-content: space-around;
+}
+
+.colonne {
+background-color: #FFD500;
+color: black;
+width: 30%;
+padding: 20px;
+
+}
+
+.evolutions {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.evolution1{
+width: 475px;
+height: 100%;
+}
+
+.evolution3{
+width: 320px;
+height: 100%;
+}
+
+
+

@@ -1,0 +1,61 @@
+h1 {
+	text-align: center;
+	font-size: 35px;
+	border-color: yellows;
+	border-width: 10px;
+	border-style: double;
+
+  font-family: fantasy;
+  color:black;
+}
+
+h2 {
+	
+	text-align: center;
+}
+
+h3 {
+	font-size: 15px;
+	text-align: center;
+}
+
+.quisommesnous {
+	font-size: 30px;
+	border-style: groove;
+	padding: 10px;
+	margin-top: 5px;
+}
+
+.promo {
+	margin-top: 20px; 
+	font-family: fantasy; 
+	color: blue;
+}
+
+.vertcollection {
+	font-family: fantasy;
+	color: green;
+	padding-top: 30px; 
+	padding-bottom: 5px;
+	 }
+
+.cat {
+	margin-top : 25px;
+	font-family: fantasy;
+	color: #73401D;
+	}
+
+.card-img-overlay {
+	color: black; 
+	font-family: fantasy;
+	 font-size: 30px; 
+	 margin-top: 25px;
+	 text-decoration-line: inherit;
+
+	}
+
+.videos  {
+	display: flex;
+	justify-content: space-around; 
+	text-align: center;
+	}	

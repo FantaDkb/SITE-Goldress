@@ -1,0 +1,26 @@
+.bg-dark { 
+	background-color: black!important; 
+}
+
+.navbar-nav .active>.nav-link {color: #FFD500;}
+
+.navbar-nav .active>.nav-link {
+    color: #FFD500;
+}
+
+.navbar-nav{padding-left: 100px;
+}
+
+.btn-outline-sucess:hover {
+	background-color: FFD500; border-color: FFD500;
+}
+
+
+.pt-2 {
+	color: #FFD500
+}
+
+.mb-4 {
+	color:  floralwhite;
+}
+
